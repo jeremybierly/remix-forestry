@@ -1,4 +1,13 @@
 ---
 label: Blog post
 hide_body: false
-fields: []
+fields:
+- name: blocks
+  type: blocks
+  label: blocks
+  template_types:
+  - blog-post
+  config:
+    min: 
+    max: 
+  description: configurable content blocks

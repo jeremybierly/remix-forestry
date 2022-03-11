@@ -11,3 +11,8 @@ fields:
     min: 
     max: 
   description: configurable content blocks
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title

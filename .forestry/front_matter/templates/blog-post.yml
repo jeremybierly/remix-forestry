@@ -2,15 +2,6 @@
 label: Blog post
 hide_body: false
 fields:
-- name: blocks
-  type: blocks
-  label: blocks
-  template_types:
-  - blog-post
-  config:
-    min: 
-    max: 
-  description: configurable content blocks
 - name: title
   type: text
   config:
